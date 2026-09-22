@@ -4,3 +4,6 @@ Hello, my name is Chinmay.S, and I am currently pursuing a B.Tech in Computer Sc
 Learning Java and web development
 Interested in building web applications
 Goal: Build practical web development projects and improve my Java skills
+## Projects
+
+I plan to build practical web development projects using Java and modern web technologies to strengthen my programming and problem-solving skills.
